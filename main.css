@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+}
+header{
+    background-color: black;
+    color: white;
+}
+p{
+    text-align: center;
+    border: 2px solid red;
+}
+.container{
+    background-color:aqua;
+    height: 50vh;
+    width: 50vw;
+    margin: auto;
+    padding: 0 34px;
+}
+.box{
+    height: 20px;
+    width: 200px;
+    background-color:chartreuse;
+    position: relative;
+    /*  top: 58px; */
+     left: 30px;
+     bottom: 777px;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(99, 99, 181);
+    position: relative;
+}
